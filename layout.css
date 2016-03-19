@@ -4,8 +4,17 @@
     padding: 0;
 }
 
+html, body {
+    height: 100%;
+}
+
 #img_cover_top{
     height: 30%;
     width: 100%;
     background-color: cyan;
+}
+
+.menu {
+    width: 100%;
+    background-color: darkgray;
 }
