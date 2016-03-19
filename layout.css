@@ -28,7 +28,8 @@ html, body {
     position: absolute;
     width: 300px;
     height: 300px;
-    background-color: black;
+    background-color: cyan;
+    border: 5px solid white;
     top: -150px;
 }
 
