@@ -21,6 +21,7 @@ html, body {
 
 .secondary.menu {
     position: relative;
+    padding: 0 50px;
 }
 
 .profile-picture {
@@ -28,7 +29,7 @@ html, body {
     width: 300px;
     height: 300px;
     background-color: black;
-    transform: translate(50%, -50%);
+    top: -150px;
 }
 
 #new_feed{
